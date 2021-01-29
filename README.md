@@ -4,7 +4,7 @@ Team members: Erik Watson, Steven Sweeny, and Kathy Nguyen
 
 
 Project Description
-Compare LA and NYC 2010-2016 population, pollution and precipitation  
+Comparing LA and NYC 2010-2016 population, pollution and precipitation.  
 
 
 Datasets
