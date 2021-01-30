@@ -1,4 +1,4 @@
-# watson_nguyen_sweeny
+# Project 2 watson_nguyen_sweeny
 3-person group 2-project, Data Visualization
 Team members: Erik Watson, Steven Sweeny, and Kathy Nguyen
 
